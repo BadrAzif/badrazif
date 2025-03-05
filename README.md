@@ -1,5 +1,7 @@
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<div align="center">
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:1200/1*-0VFX2FbIMWZDKYrQpxPnQ.jpeg"  />
+</div>
 
 # Hello, I'm Badr, a Morocccan Backend Developer:
 I’m Badr Azif, a 20-year-old Backend Developer passionate about building efficient and scalable web applications. My current tech stack includes MongoDB, Node.js, and Express, which I use to create fast and reliable server-side applications. Always looking to learn new things and improve my skills!
