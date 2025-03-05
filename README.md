@@ -24,9 +24,9 @@ I’m Badr Azif, a 20-year-old Backend Developer passionate about building effic
 
 
 # Contact Me :
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_azbvdr.24)
-
+<div align="center">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_azbvdr.24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badrazif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samisami78xd@gmail.com) 
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
